@@ -31,17 +31,38 @@
       "type": "color"
     },
     "textStyle": {
-      "value": {
-        "fontFamily": "SoundCloud Sans",
-        "fontWeight": 700,
-        "lineHeight": 20,
-        "fontSize": 14,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "SoundCloud Sans",
+        "type": "fontFamily"
       },
-      "type": "typography"
+      "fontWeight": {
+        "value": 700,
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 20,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 14,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "textCase"
+      }
     },
     "paddingX": {
       "value": 16,
@@ -463,109 +484,277 @@
     }
   },
   "H1 - XXL": {
-    "value": {
-      "fontFamily": "SoundCloud Sans",
-      "fontWeight": 700,
-      "lineHeight": 36,
-      "fontSize": 28,
-      "letterSpacing": 0,
-      "paragraphSpacing": 0,
-      "textCase": "none",
-      "textDecoration": "none"
+    "fontFamily": {
+      "value": "SoundCloud Sans",
+      "type": "fontFamily"
     },
-    "type": "typography"
+    "fontWeight": {
+      "value": 700,
+      "type": "fontWeight"
+    },
+    "lineHeight": {
+      "value": 36,
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": 28,
+      "type": "fontSize"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
   },
   "H2 - XL": {
-    "value": {
-      "fontFamily": "SoundCloud Sans",
-      "fontWeight": 700,
-      "lineHeight": 28,
-      "fontSize": 22,
-      "letterSpacing": 0,
-      "paragraphSpacing": 0,
-      "textCase": "none",
-      "textDecoration": "none"
+    "fontFamily": {
+      "value": "SoundCloud Sans",
+      "type": "fontFamily"
     },
-    "type": "typography"
+    "fontWeight": {
+      "value": 700,
+      "type": "fontWeight"
+    },
+    "lineHeight": {
+      "value": 28,
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": 22,
+      "type": "fontSize"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
   },
   "H3 - L": {
-    "value": {
-      "fontFamily": "SoundCloud Sans",
-      "fontWeight": 700,
-      "lineHeight": 24,
-      "fontSize": 17,
-      "letterSpacing": 0,
-      "paragraphSpacing": 0,
-      "textCase": "none",
-      "textDecoration": "none"
+    "fontFamily": {
+      "value": "SoundCloud Sans",
+      "type": "fontFamily"
     },
-    "type": "typography"
+    "fontWeight": {
+      "value": 700,
+      "type": "fontWeight"
+    },
+    "lineHeight": {
+      "value": 24,
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": 17,
+      "type": "fontSize"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
   },
   "H4 - M Bold": {
-    "value": {
-      "fontFamily": "SoundCloud Sans",
-      "fontWeight": 700,
-      "lineHeight": 20,
-      "fontSize": 14,
-      "letterSpacing": 0,
-      "paragraphSpacing": 0,
-      "textCase": "none",
-      "textDecoration": "none"
+    "fontFamily": {
+      "value": "SoundCloud Sans",
+      "type": "fontFamily"
     },
-    "type": "typography"
+    "fontWeight": {
+      "value": 700,
+      "type": "fontWeight"
+    },
+    "lineHeight": {
+      "value": 20,
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": 14,
+      "type": "fontSize"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
   },
   "Body - M Regular": {
-    "value": {
-      "fontFamily": "SoundCloud Sans",
-      "fontWeight": 500,
-      "lineHeight": 20,
-      "fontSize": 14,
-      "letterSpacing": 0,
-      "paragraphSpacing": 0,
-      "textCase": "none",
-      "textDecoration": "none"
+    "fontFamily": {
+      "value": "SoundCloud Sans",
+      "type": "fontFamily"
     },
-    "type": "typography"
+    "fontWeight": {
+      "value": 500,
+      "type": "fontWeight"
+    },
+    "lineHeight": {
+      "value": 20,
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": 14,
+      "type": "fontSize"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
   },
   "Apps": {
     "H5 - S Bold (Apps only)": {
-      "value": {
-        "fontFamily": "SoundCloud Sans",
-        "fontWeight": 700,
-        "lineHeight": 18,
-        "fontSize": 13,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "textDecoration": "none"
+      "fontFamily": {
+        "value": "SoundCloud Sans",
+        "type": "fontFamily"
       },
-      "type": "typography"
+      "fontWeight": {
+        "value": 700,
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 18,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 13,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      }
     },
     "Captions - S Regular  (Apps only)": {
-      "value": {
-        "fontFamily": "SoundCloud Sans",
-        "fontWeight": 500,
-        "lineHeight": 18,
-        "fontSize": 13,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "textDecoration": "none"
+      "fontFamily": {
+        "value": "SoundCloud Sans",
+        "type": "fontFamily"
       },
-      "type": "typography"
+      "fontWeight": {
+        "value": 500,
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 18,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 13,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      }
     },
     "Micro - XS Bold  (Apps only)": {
-      "value": {
-        "fontFamily": "SoundCloud Sans",
-        "fontWeight": 700,
-        "lineHeight": 16,
-        "fontSize": 11,
-        "letterSpacing": 0.5,
-        "paragraphSpacing": 0,
-        "textCase": "uppercase",
-        "textDecoration": "none"
+      "fontFamily": {
+        "value": "SoundCloud Sans",
+        "type": "fontFamily"
       },
-      "type": "typography"
+      "fontWeight": {
+        "value": 700,
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 16,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 11,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": 0.5,
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textCase": {
+        "value": "uppercase",
+        "type": "textCase"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      }
     }
   },
   "textCase": {
@@ -701,6 +890,76 @@
     "center": {
       "value": "center",
       "type": "other"
+    }
+  },
+  "artWorkSize": {
+    "micro": {
+      "value": 48,
+      "type": "sizing"
+    },
+    "small": {
+      "value": 64,
+      "type": "sizing"
+    },
+    "medium": {
+      "value": 104,
+      "type": "sizing"
+    },
+    "slide": {
+      "value": 160,
+      "type": "sizing"
+    },
+    "card": {
+      "value": 359,
+      "type": "sizing"
+    }
+  },
+  "artWorkStackSize": {
+    "micro": {
+      "value": 44,
+      "type": "sizing"
+    },
+    "small": {
+      "value": 58,
+      "type": "sizing"
+    },
+    "medium": {
+      "value": 96,
+      "type": "sizing"
+    },
+    "slide": {
+      "value": 144,
+      "type": "sizing"
+    },
+    "card": {
+      "value": 343,
+      "type": "sizing"
+    }
+  },
+  "userAvatarSize": {
+    "nano": {
+      "value": 32,
+      "type": "sizing"
+    },
+    "micro": {
+      "value": 48,
+      "type": "sizing"
+    },
+    "small": {
+      "value": 64,
+      "type": "sizing"
+    },
+    "medium": {
+      "value": 104,
+      "type": "sizing"
+    },
+    "slide": {
+      "value": 128,
+      "type": "sizing"
+    },
+    "card": {
+      "value": 160,
+      "type": "sizing"
     }
   }
 }
