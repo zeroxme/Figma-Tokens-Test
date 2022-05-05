@@ -1,0 +1,23 @@
+{
+  "name": "figma-tokens-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeroxme/Figma-Tokens-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeroxme/Figma-Tokens-Test/issues"
+  },
+  "homepage": "https://github.com/zeroxme/Figma-Tokens-Test#readme",
+  "dependencies": {
+    "style-dictionary": "^3.7.0",
+    "token-transformer": "^0.0.21"
+  }
+}
