@@ -15,13 +15,21 @@
       "buildPath": "build/android/",
       "files": [{
         "destination": "colors.xml",
+        "format": "android/resources"
+      },{
+        "destination": "colors.xml",
         "format": "android/colors"
       },{
         "destination": "font_dimens.xml",
         "format": "android/fontDimens"
       },{
-        "destination": "dimens.xml",
-        "format": "android/dimens"
+        "destination": "size.xml",
+        "format": "android/dimens",
+        "filter": {
+          "attributes": {
+            "category": "size"
+          }
+        }
       },{
         "destination": "integers.xml",
         "format": "android/integers"
@@ -46,7 +54,15 @@
         "format": "compose/object",
         "className": "Size",
         "packageName": "Size",
-        "type": "float"
+        "filter": {
+          "attributes": {
+            "category": "size"
+          }
+        }
+      },
+      {
+        "destination": "All.kt",
+        "format": "compose/object"
       }]
     },
     "ios": {
