@@ -112,6 +112,17 @@
 						}
 					}
 				},
+				{
+					"destination": "typography.kt",
+					"format": "compose/object",
+					"className": "Typography",
+					"packageName": "Typography",
+					"filter": {
+						"attributes": {
+							"category": "Typography"
+						}
+					}
+				},
         {
 					"destination": "Opacity.kt",
 					"format": "compose/object",

@@ -483,178 +483,8 @@
       "type": "paragraphSpacing"
     }
   },
-  "H1 - XXL": {
-    "fontFamily": {
-      "value": "SoundCloud Sans",
-      "type": "fontFamily"
-    },
-    "fontWeight": {
-      "value": 700,
-      "type": "fontWeight"
-    },
-    "lineHeight": {
-      "value": 36,
-      "type": "lineHeight"
-    },
-    "fontSize": {
-      "value": 28,
-      "type": "fontSize"
-    },
-    "letterSpacing": {
-      "value": 0,
-      "type": "letterSpacing"
-    },
-    "paragraphSpacing": {
-      "value": 0,
-      "type": "paragraphSpacing"
-    },
-    "textCase": {
-      "value": "none",
-      "type": "textCase"
-    },
-    "textDecoration": {
-      "value": "none",
-      "type": "textDecoration"
-    }
-  },
-  "H2 - XL": {
-    "fontFamily": {
-      "value": "SoundCloud Sans",
-      "type": "fontFamily"
-    },
-    "fontWeight": {
-      "value": 700,
-      "type": "fontWeight"
-    },
-    "lineHeight": {
-      "value": 28,
-      "type": "lineHeight"
-    },
-    "fontSize": {
-      "value": 22,
-      "type": "fontSize"
-    },
-    "letterSpacing": {
-      "value": 0,
-      "type": "letterSpacing"
-    },
-    "paragraphSpacing": {
-      "value": 0,
-      "type": "paragraphSpacing"
-    },
-    "textCase": {
-      "value": "none",
-      "type": "textCase"
-    },
-    "textDecoration": {
-      "value": "none",
-      "type": "textDecoration"
-    }
-  },
-  "H3 - L": {
-    "fontFamily": {
-      "value": "SoundCloud Sans",
-      "type": "fontFamily"
-    },
-    "fontWeight": {
-      "value": 700,
-      "type": "fontWeight"
-    },
-    "lineHeight": {
-      "value": 24,
-      "type": "lineHeight"
-    },
-    "fontSize": {
-      "value": 17,
-      "type": "fontSize"
-    },
-    "letterSpacing": {
-      "value": 0,
-      "type": "letterSpacing"
-    },
-    "paragraphSpacing": {
-      "value": 0,
-      "type": "paragraphSpacing"
-    },
-    "textCase": {
-      "value": "none",
-      "type": "textCase"
-    },
-    "textDecoration": {
-      "value": "none",
-      "type": "textDecoration"
-    }
-  },
-  "H4 - M Bold": {
-    "fontFamily": {
-      "value": "SoundCloud Sans",
-      "type": "fontFamily"
-    },
-    "fontWeight": {
-      "value": 700,
-      "type": "fontWeight"
-    },
-    "lineHeight": {
-      "value": 20,
-      "type": "lineHeight"
-    },
-    "fontSize": {
-      "value": 14,
-      "type": "fontSize"
-    },
-    "letterSpacing": {
-      "value": 0,
-      "type": "letterSpacing"
-    },
-    "paragraphSpacing": {
-      "value": 0,
-      "type": "paragraphSpacing"
-    },
-    "textCase": {
-      "value": "none",
-      "type": "textCase"
-    },
-    "textDecoration": {
-      "value": "none",
-      "type": "textDecoration"
-    }
-  },
-  "Body - M Regular": {
-    "fontFamily": {
-      "value": "SoundCloud Sans",
-      "type": "fontFamily"
-    },
-    "fontWeight": {
-      "value": 500,
-      "type": "fontWeight"
-    },
-    "lineHeight": {
-      "value": 20,
-      "type": "lineHeight"
-    },
-    "fontSize": {
-      "value": 14,
-      "type": "fontSize"
-    },
-    "letterSpacing": {
-      "value": 0,
-      "type": "letterSpacing"
-    },
-    "paragraphSpacing": {
-      "value": 0,
-      "type": "paragraphSpacing"
-    },
-    "textCase": {
-      "value": "none",
-      "type": "textCase"
-    },
-    "textDecoration": {
-      "value": "none",
-      "type": "textDecoration"
-    }
-  },
-  "Apps": {
-    "H5 - S Bold (Apps only)": {
+  "typography": {
+    "H1 - XXL": {
       "fontFamily": {
         "value": "SoundCloud Sans",
         "type": "fontFamily"
@@ -664,11 +494,11 @@
         "type": "fontWeight"
       },
       "lineHeight": {
-        "value": 18,
+        "value": 36,
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": 13,
+        "value": 28,
         "type": "fontSize"
       },
       "letterSpacing": {
@@ -688,7 +518,109 @@
         "type": "textDecoration"
       }
     },
-    "Captions - S Regular  (Apps only)": {
+    "H2 - XL": {
+      "fontFamily": {
+        "value": "SoundCloud Sans",
+        "type": "fontFamily"
+      },
+      "fontWeight": {
+        "value": 700,
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 28,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 22,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "H3 - L": {
+      "fontFamily": {
+        "value": "SoundCloud Sans",
+        "type": "fontFamily"
+      },
+      "fontWeight": {
+        "value": 700,
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 24,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 17,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "H4 - M Bold": {
+      "fontFamily": {
+        "value": "SoundCloud Sans",
+        "type": "fontFamily"
+      },
+      "fontWeight": {
+        "value": 700,
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 20,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 14,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "Body - M Regular": {
       "fontFamily": {
         "value": "SoundCloud Sans",
         "type": "fontFamily"
@@ -698,11 +630,11 @@
         "type": "fontWeight"
       },
       "lineHeight": {
-        "value": 18,
+        "value": 20,
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": 13,
+        "value": 14,
         "type": "fontSize"
       },
       "letterSpacing": {
@@ -722,38 +654,108 @@
         "type": "textDecoration"
       }
     },
-    "Micro - XS Bold  (Apps only)": {
-      "fontFamily": {
-        "value": "SoundCloud Sans",
-        "type": "fontFamily"
+    "Apps": {
+      "H5 - S Bold (Apps only)": {
+        "fontFamily": {
+          "value": "SoundCloud Sans",
+          "type": "fontFamily"
+        },
+        "fontWeight": {
+          "value": 700,
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": 18,
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 13,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        }
       },
-      "fontWeight": {
-        "value": 700,
-        "type": "fontWeight"
+      "Captions - S Regular  (Apps only)": {
+        "fontFamily": {
+          "value": "SoundCloud Sans",
+          "type": "fontFamily"
+        },
+        "fontWeight": {
+          "value": 500,
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": 18,
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 13,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        }
       },
-      "lineHeight": {
-        "value": 16,
-        "type": "lineHeight"
-      },
-      "fontSize": {
-        "value": 11,
-        "type": "fontSize"
-      },
-      "letterSpacing": {
-        "value": 0.5,
-        "type": "letterSpacing"
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "paragraphSpacing"
-      },
-      "textCase": {
-        "value": "uppercase",
-        "type": "textCase"
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "textDecoration"
+      "Micro - XS Bold  (Apps only)": {
+        "fontFamily": {
+          "value": "SoundCloud Sans",
+          "type": "fontFamily"
+        },
+        "fontWeight": {
+          "value": 700,
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": 16,
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 11,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": 0.5,
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "uppercase",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        }
       }
     }
   },
