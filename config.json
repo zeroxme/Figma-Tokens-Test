@@ -1,6 +1,28 @@
 {
-	"source": [ "token.json" ],
+	"source": [ "output.json" ],
 	"platforms": {
+		"ts": {
+      "transformGroup": "js",
+			"transforms": ["size/px"],
+			"buildPath": "build/ts/",
+      "files": [
+        {
+          "format": "javascript/object",
+          "destination": "design-system.ts",
+					"name": "DesignSystem"
+        },
+				{
+					"destination": "button.ts",
+					"format": "javascript/object",
+					"name": "buttonPrimaryStandard",
+					"filter": {
+						"attributes": {
+							"category": "buttonPrimaryStandard"
+						}
+					}
+				}
+      ]
+    },
 		"scss": {
 			"transformGroup": "scss",
 			"buildPath": "build/scss/",
@@ -119,7 +141,7 @@
 					"packageName": "Typography",
 					"filter": {
 						"attributes": {
-							"category": "Typography"
+							"category": "typography"
 						}
 					}
 				},
@@ -142,6 +164,17 @@
 					"filter": {
 						"attributes": {
 							"category": "size"
+						}
+					}
+				},
+				{
+					"destination": "ButtonPrimaryStandard.kt",
+					"format": "compose/object",
+					"className": "ButtonPrimaryStandard",
+					"packageName": "ButtonPrimaryStandard",
+					"filter": {
+						"attributes": {
+							"category": "buttonPrimaryStandard"
 						}
 					}
 				},
