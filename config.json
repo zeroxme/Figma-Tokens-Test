@@ -9,18 +9,8 @@
         {
           "format": "javascript/object",
           "destination": "design-system.ts",
-					"name": "DesignSystem"
-        },
-				{
-					"destination": "button.ts",
-					"format": "javascript/object",
-					"name": "buttonPrimaryStandard",
-					"filter": {
-						"attributes": {
-							"category": "buttonPrimaryStandard"
-						}
-					}
-				}
+					"name": "FigmaDesignSystem"
+        }
       ]
     },
 		"scss": {

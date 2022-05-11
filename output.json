@@ -130,6 +130,18 @@
       "iconSize": {
         "value": 16,
         "type": "spacing"
+      },
+      "animationType": {
+        "value": "ease",
+        "type": "other"
+      },
+      "animationEase": {
+        "value": "linear",
+        "type": "other"
+      },
+      "animationDuration": {
+        "value": 2,
+        "type": "other"
       }
     },
     "disabled": {
@@ -281,12 +293,20 @@
         "value": "#044DD2",
         "type": "color"
       },
-      "green": {
+      "green700": {
         "value": "#00995C",
         "type": "color"
       },
-      "red": {
+      "green400": {
+        "value": "#4BC689",
+        "type": "color"
+      },
+      "red600": {
         "value": "#D61348",
+        "type": "color"
+      },
+      "red300": {
+        "value": "#F25D7C",
         "type": "color"
       },
       "orange500": {
@@ -330,6 +350,14 @@
       "Link": {
         "value": "#044DD2",
         "type": "color"
+      },
+      "Error": {
+        "value": "#D61348",
+        "type": "color"
+      },
+      "Success": {
+        "value": "#00995C",
+        "type": "color"
       }
     },
     "Shared colors": {
@@ -341,16 +369,16 @@
         "value": "linear-gradient(135deg, #9F34A9 0%, #FF4600 100%)",
         "type": "color"
       },
-      "Success": {
-        "value": "#00995C",
-        "type": "color"
-      },
-      "Error": {
-        "value": "#D61348",
-        "type": "color"
-      },
       "Pride": {
         "value": "linear-gradient(180deg, #e40303 0%, #e40303 16.67%, #ff8c00 16.68%, #ff8c00 33.32%, #ffed00 33.32%, #ffed00 49.96%, #008026 49.96%, #008026 66.67%, #004dff 66.67%, #004dff 83.34%, #750787 83.36%)",
+        "type": "color"
+      },
+      "light": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#000000",
         "type": "color"
       }
     },
@@ -381,6 +409,14 @@
       },
       "Link": {
         "value": "#699FFF",
+        "type": "color"
+      },
+      "Error": {
+        "value": "#F25D7C",
+        "type": "color"
+      },
+      "Success": {
+        "value": "#4BC689",
         "type": "color"
       }
     },
@@ -845,20 +881,6 @@
       "type": "other"
     }
   },
-  "iconSizes": {
-    "small": {
-      "value": 16,
-      "type": "other"
-    },
-    "medium": {
-      "value": 24,
-      "type": "other"
-    },
-    "large": {
-      "value": 32,
-      "type": "other"
-    }
-  },
   "icons": {
     "small": {
       "placeholder": {
@@ -967,6 +989,50 @@
       "card": {
         "value": 160,
         "type": "sizing"
+      }
+    },
+    "iconSize": {
+      "large": {
+        "value": 32,
+        "type": "sizing"
+      },
+      "medium": {
+        "value": 24,
+        "type": "sizing"
+      },
+      "small": {
+        "value": 16,
+        "type": "sizing"
+      }
+    }
+  },
+  "animation": {
+    "linear": {
+      "type": {
+        "value": "ease",
+        "type": "other"
+      },
+      "ease": {
+        "value": "linear",
+        "type": "other"
+      },
+      "duration": {
+        "value": 2,
+        "type": "other"
+      }
+    },
+    "spring": {
+      "type": {
+        "value": "spring",
+        "type": "other"
+      },
+      "stiffness": {
+        "value": 700,
+        "type": "other"
+      },
+      "damping": {
+        "value": 40,
+        "type": "other"
       }
     }
   }
